@@ -6,7 +6,7 @@ A responsive website that offers fitness training services.
 ____________________________________________________________________________________________________________________________________________________________________
  Project Visual :sunglasses:
 
-![Project-picture](https://karltunmoreno.github.io/My-Portfolio/assets/images/Thorgym.jpg)
+![App Screenshot](tg.png)
 ___________________________________________________________________________________________________________________________________________________________________
 ## What needs to be done.
 1. Create a new feature branch.
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 ## Website
 
-https://karltunmoreno.github.io/THOR-GYM/#what-we-do
+https://maxkarltun.github.io/THOR-GYM/
 
 
 ## Contribution
