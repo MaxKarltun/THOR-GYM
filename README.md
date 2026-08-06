@@ -8,24 +8,7 @@ ________________________________________________________________________________
 
 ![App Screenshot](TG.png)
 ___________________________________________________________________________________________________________________________________________________________________
-## What needs to be done.
-1. Create a new feature branch.
 
-2.Add flexbox to the header.
-
-3.Add flexbox to the footer.
-
-4. Add flexbox to the hero section.
-
-5. Center section titles using flexbox.
-
-6. Create nested flexboxes for the "What You Do" section.
-
-7. Convert the trainer section into cards.
-
-8. Make a three-column "Reach Out" section.
-
-9. Merge the feature branch.
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## Website
@@ -34,7 +17,7 @@ https://maxkarltun.github.io/THOR-GYM/
 
 
 ## Contribution
-Made with ❤️ by Karltun Moreno
+Made with ❤️ by Max karltun
 
 
 ________________________________________________________________________________________________________________________________________________________
